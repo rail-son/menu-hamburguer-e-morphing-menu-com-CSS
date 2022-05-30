@@ -1,6 +1,6 @@
 Desenvolvimento de menu hamburguer
 
-Projeto de desenvolvimento de portifólio com foco em animações.
+Projeto de desenvolvimento de portfólio com foco em animações.
 
 Resultado:
 
